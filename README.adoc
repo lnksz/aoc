@@ -20,3 +20,26 @@ Trying out https://docs.asciidoctor.org/asciidoctor/latest/[Asciidoctor] as a
 Markdown alternative.
 
 === Day 1. - Depth Scan (Rust)
+
+After hearing so much about rust, it is time to try it out!
+
+* Reading a file : https://doc.rust-lang.org/book/ch12-02-reading-a-file.html
+* Iterator : https://doc.rust-lang.org/std/iter/trait.Iterator.html
+** `windows()` <3
+
+The syntax sure needs some getting used to. But I am impressed with the
+functional toolbox. And this "iter.collect.iter.collect" schema does look
+promissing! I started to think, how general this sliding window use-case is,
+and how I would implement it in C. Then discovered `windows()` in the docs...
+Neat!
+
+The pattern matching and the borrow-checker will need some more learning...
+
+.Building and running the solution
+[source,bash]
+----
+# Sample data-set part-1
+cargo run sample.txt a
+# Input data-set part-2
+cargo run input.txt b
+----
