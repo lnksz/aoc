@@ -1,0 +1,18 @@
+= Advent of Code
+:toc:
+
+My solutions to the AoC tasks, with focus on exploration and fun.
+
+== 2021
+
+My first AoC. I want to use these fun little riddles to try out programming
+languages and maybe tooling around them. Stuff which I collect on my to-do
+list, but have missed the opportunity to try them out during the year. I like
+how these mini tasks offer a nice way to mess around new things without
+commiting to a full side-project.
+
+I started off using https://repl.com[repl.com], but then decided to also create
+this repo to gather my notes around the solutions.
+
+=== Day 1.
+
