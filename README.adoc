@@ -43,3 +43,20 @@ cargo run sample.txt a
 # Input data-set part-2
 cargo run input.txt b
 ----
+
+=== Day 2. - Keyword navigation (awk)
+
+I've been using awk to print some selected columns from files... But knew it
+could do more!
+
+* `-v=0` flag is redundant, because variables are initialized to 0
+
+I think I will use awk more in my day-to-day work. Pretty awesome to have match
+based actions!
+
+.Running the solution
+[source,bash]
+----
+./aoc-2021-02.sh sample a
+./aoc-2021-02.sh input b
+----
