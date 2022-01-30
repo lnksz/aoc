@@ -14,5 +14,9 @@ commiting to a full side-project.
 I started off using https://repl.com[repl.com], but then decided to also create
 this repo to gather my notes around the solutions.
 
-=== Day 1.
+=== Day 0.
 
+Trying out https://docs.asciidoctor.org/asciidoctor/latest/[Asciidoctor] as a
+Markdown alternative.
+
+=== Day 1. - Depth Scan (Rust)
